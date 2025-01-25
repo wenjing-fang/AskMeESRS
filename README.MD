@@ -25,17 +25,21 @@ This project implements a conversational AI agent that answers questions related
    cd <repository-name>
 
 2. Install dependencies:
+    ```bash
     pip install -r requirements.txt
 
 3. Setup Chatmodel Ollama:
+    ```bash
     ollama serve
     ollama pull llama3.1
 
 4. Setup LANGSMITH environment variable:
+    ```bash
     LANGSMITH_TRACING=true
     LANGSMITH_API_KEY=your-langsmith-api-key
 
 5. Run the Streamlit app:
+    ```bash
     streamlit run app.py
     Open the URL provided by Streamlit (usually http://localhost:8501) in your web browser.
 
