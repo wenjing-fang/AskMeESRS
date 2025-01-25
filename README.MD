@@ -20,9 +20,6 @@ This project implements a conversational AI agent that answers questions related
 ## Installation and Usage
 
 1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd <repository-name>
 
 2. Install dependencies:
     ```bash
