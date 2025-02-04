@@ -15,13 +15,11 @@ from langgraph.checkpoint.memory import MemorySaver
 from langgraph.prebuilt import create_react_agent
 import streamlit as st
 from langgraph.graph import MessagesState
-import pickle
 import faiss
 from langchain_community.docstore.in_memory import InMemoryDocstore
 from langchain_community.vectorstores import FAISS
 import csv
 import time
-import func
 
 
 print('Setting up...')
@@ -254,8 +252,6 @@ if st.button("Ask") and input_message.strip():
         
         # Append the conversation to the session
         st.session_state["conversation"].append({"user": input_message, "agent": response_message})
-        print('Analysing event...')
-
         
         # Log the interaction into a CSV file
         # func.log_interaction_to_csv(event)  # Pass the entire event for logging
