@@ -1,17 +1,19 @@
 faiss-cpu==1.9.0.post1
-langchain==0.3.15
+faiss-cpu>=1.7.0
 langchain-community==0.3.15
 langchain-core==0.3.31
 langchain-huggingface==0.1.2
 langchain-ollama==0.2.2
 langchain-openai==0.3.1
-langchain-text-splitters @ file:///home/conda/feedstock_root/build_artifacts/langchain-text-splitters_1736285587843/work
+langchain-text-splitters
 langchainhub==0.1.21
 langgraph==0.2.66
 langgraph-checkpoint==2.0.10
-langgraph-sdk @ file:///home/conda/feedstock_root/build_artifacts/langgraph-sdk_1736449628000/work
+langchain-google-vertexai>=0.1.0
+langgraph-sdk
 pandas==2.2.3
 pdfplumber==0.11.5
+PyMuPDF>=1.23.0
 stqdm==0.0.5
 streamlit==1.41.1
 streamlit-chat==0.1.1
