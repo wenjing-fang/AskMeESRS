@@ -46,6 +46,10 @@ This folder includes 4 docuemnts, which are the main ESRS documents and three FA
 It includes the icon image we use for the streamlit app.
 
 
+## Deployment
+
+It is possible to deploy this app on the Databricks platform after revising some configurations.
+
 
 
 
