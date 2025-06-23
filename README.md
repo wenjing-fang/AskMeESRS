@@ -24,6 +24,7 @@ A Streamlit-based RAG (Retrieval-Augmented Generation) chatbot designed to answe
    ```
 2. Run Batch Evaluation to Get Multiple Answers
    - Put the question csv in the evaluation/evaluation_question/ folder
+   - Run:
    ```sh
    cd code
    python evaluation.py
