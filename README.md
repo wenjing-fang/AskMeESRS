@@ -22,11 +22,14 @@ A Streamlit-based RAG (Retrieval-Augmented Generation) chatbot designed to answe
    cd code
    streamlit run app.py
    ```
-2. Get answer for the purpose of evaluation
+2. Run Batch Evaluation to Get Multiple Answers
+   Put the question csv in the evaluation/evaluation_question/ folder
    ```sh
    cd code
    python evaluation.py
    ```
+   The answer will show up in the evaluation/evaluation_answer/ foler.
+
 
 ## Features
 🧠 RAG-based Question Answering using LangChain
