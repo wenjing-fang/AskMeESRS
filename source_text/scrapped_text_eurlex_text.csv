@@ -1,0 +1,422 @@
+ParentID,Content
+,Official Journal of the European Union
+,EN
+,L series
+,2024/2952
+,2.12.2024
+d1e43-1-1,COMMISSION IMPLEMENTING REGULATION (EU) 2024/2952
+tit_1,of 29 November 2024
+tit_1,laying down a common template and electronic reporting formats for the application of Directive 2013/34/EU of the European Parliament and of the Council as regards the information to be presented in reports on income tax information
+tit_1,(Text with EEA relevance)
+pbl_1,"THE EUROPEAN COMMISSION,"
+cit_1,"Having regard to the Treaty on the Functioning of the European Union,"
+cit_2,"Having regard to Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC ( 1 ) , and in particular Article 48c(4) thereof,"
+ntc1-L_202402952EN.000101-E0001,1
+pbl_1,Whereas:
+rct_1,(1)
+rct_1,"Pursuant to Article 48b(1) of Directive 2013/34/EU, Member States are to require undertakings to draw up, publish and make accessible a report on income tax information as regards the latter of the two consecutive financial years in each of which the consolidated revenue on their balance sheet date exceeded a total of EUR 750 000 000."
+rct_2,(2)
+rct_2,"In accordance with Article 48b(3), undertakings or their affiliated undertakings that disclose certain reports in accordance with Article 89 of Directive 2013/36/EU of the European Parliament and of the Council ( 2 ) , are not covered by the obligation in Article 48b(1) of Directive 2013/34/EU."
+ntc2-L_202402952EN.000101-E0002,2
+rct_3,(3)
+rct_3,"In order to ensure that the reports referred to in Article 48b(1) of Directive 2013/34/EU are comparable, the Commission is to lay down in this Regulation a common template and electronic reporting formats, which should be machine-readable. Those templates and electronic reporting formats are to be applicable also in cases where an undertaking relies on a proxy governed by the law of a Member State to publish and make accessible its report on income tax information."
+rct_4,(4)
+rct_4,"The common template provided for in this Regulation should facilitate the presentation of information to be disclosed in the report on income tax information pursuant to Article 48c, paragraphs 2 and 3 of Directive 2013/34/EU. In designing the template and reporting formats, progress in the area of digitisation and accessibility of information published by undertakings has been considered."
+rct_5,(5)
+rct_5,"XHTML (Extensible Hypertext Markup Language) is a type of mark-up language which is mandated for the marking-up of annual financial reports of issuers whose securities are admitted to trading on EU regulated markets pursuant to Commission Delegated Regulation (EU) 2019/815 on a single electronic reporting format ( 3 ) . XHTML is also mandated for the sustainability statements which are to be drawn up by certain undertakings pursuant to Directive 2013/34/EU, as amended by Directive (EU) 2022/2464 as regards corporate sustainability reporting ( 4 ) . Accordingly, in order to ensure consistency, the reports on income tax information referred to in Article 48b(1) of Directive 2013/34/EU should also be drawn up in XHTML format."
+ntc3-L_202402952EN.000101-E0003,3
+ntc4-L_202402952EN.000101-E0004,4
+rct_6,(6)
+rct_6,"XBRL (Extensible Business Reporting Language) is a machine-readable mark-up language which allows for the automated consumption of large amount of information, ensuring the accessibility and comparability of data. XBRL is well-established and in use in several jurisdictions. Inline XBRL is an open standard which allows for the embedding of XBRL markups in XHTML documents. Inline XBRL enables both human and machine readability. Accordingly, the reports on income tax information referred to in Article 48b(1) of Directive 2013/34/EU should be marked up using the Inline XBRL standard."
+rct_7,(7)
+rct_7,"The use of XBRL markup language involves the application of a taxonomy to convert human-readable information to machine-readable information. In order to ensure the comparability and usability of data disclosed in the report on income tax information and presented using the common template and electronic reporting formats, such common taxonomy should specify the data elements to be marked up, having regards to other EU legislation related to country-by-country reporting. The hierarchy of elements and their appropriate data type has been made available to undertakings in a simple human-readable form in this Regulation. An undertaking should ensure that all the information required by the Directive and disclosed in the report is marked up, where it corresponds to elements set out in the core taxonomy."
+rct_8,(8)
+rct_8,"Undertakings may draw up the report so that the information required is reported on the basis of the reporting instructions for tax purposes referred to in Section III, Parts B and C, of Annex III to Council Directive 2011/16/EU ( 5 ) . In such a case, undertakings should ensure that the reporting instructions are consistently applied to all the information in the report. The reporting template should allow each undertaking to specify whether the report has been prepared on the basis of the reporting instructions referred to in Section III, Parts B and C, of Annex III to Council Directive 2011/16/EU."
+ntc5-L_202402952EN.000101-E0005,5
+rct_9,(9)
+rct_9,"An ultimate parent undertaking or standalone undertaking that is not governed by the law of a Member State and which makes accessible to the public a report in compliance with Article 48b(6) of Directive 2013/34/EU is not under an obligation to use the template and electronic formats set out in this Regulation. For the purposes of complying with Article 48b(6), an ultimate parent undertaking or standalone undertaking not governed by the law of a Member State should make its report accessible in a machine-readable format and identify therein a single subsidiary or branch governed by the law of a Member State that has published a report in that Member State. However, there is no impediment for an ultimate parent undertaking or standalone undertaking that is not governed by the law of a Member State and its identified single subsidiary or branch governed by the law of a Member State to draw up the report in accordance with the template and electronic formats laid down by this Regulation."
+rct_10,(10)
+rct_10,"Pursuant to Article 48b(4) of Directive 2013/34/EU, certain medium-sized and large subsidiary undertakings that are governed by the national laws of a Member State and which are controlled by an ultimate parent undertaking that is not governed by the law of a Member State, where the consolidated revenue on its balance sheet date exceeded for each of the last two consecutive financial years a total of EUR 750 000 000, are required to publish and make accessible a report on income tax information concerning that ultimate parent undertaking as regards the latter of those two consecutive financial years. If the ultimate parent undertaking does not provide all the required information, those subsidiaries are also required to draw up, publish and make accessible a statement indicating that their ultimate parent undertaking did not make the necessary information available. When drawing up such reports and statements, those subsidiaries should not be covered by the obligation to use the common template and electronic reporting format set out in this Regulation."
+rct_11,(11)
+rct_11,"Pursuant to Article 48b(5) of Directive 2013/34/EU, certain branches opened in a Member State by undertakings that are not governed by the law of a Member State are required to publish and make accessible a report on income tax information concerning the ultimate parent undertaking or the standalone undertaking referred to in Article 48b(5), sixth subparagraph, point (a) of that Directive, as regards the latter of the last two consecutive financial years. If the ultimate parent or standalone undertaking does not provide all the required information, those branches are also to be required to draw up, publish and make accessible a statement indicating that the ultimate parent or standalone undertaking did not make the necessary information available. When drawing up such reports and statements, those branches should not be covered by the obligation to use the common template and electronic reporting format set out in this Regulation."
+rct_12,(12)
+rct_12,"Pursuant to Article 48g of Directive 2013/34/EU, Member States are to ensure that that Directive’s requirements to report on income tax information apply, at the latest, from the commencement date of the first financial year starting on or after 22 June 2024. In order to provide enough time for undertakings to implement the common template and electronic reporting formats referred to in Article 48c(4) of Directive 2013/34/EU and laid down in this Regulation, a transition period is necessary."
+rct_13,(13)
+rct_13,The measures provided for in this Regulation are in accordance with the opinion of the Accounting Directive Committee.
+pbl_1,HAS ADOPTED THIS REGULATION:
+d1e223-1-1,Article 1
+art_1.tit_1,Subject matter and scope
+art_1,"This Regulation lays down the common template and electronic reporting formats, referred to in Article 48c(4) of Directive 2013/34/EU, to be used for the presentation of the report on income tax information."
+d1e230-1-1,Article 2
+art_2.tit_1,Definitions
+art_2,"For the purposes of this Regulation, the following definitions shall apply:"
+art_2,(1)
+art_2,"‘report on income tax information’ means a report drawn up, published and made accessible pursuant to Article 48b(1) of Directive 2013/34/EU, and including the information referred to in Article 48c, paragraphs (2) and (3);"
+art_2,(2)
+art_2,‘core taxonomy’ means the combined set of the taxonomy elements set out in table 2 of Annex IV and the following collection of links:
+art_2,(a)
+art_2,"presentation linkbase, which groups the taxonomy elements;"
+art_2,(b)
+art_2,"calculation linkbase, which expresses arithmetic relationships between taxonomy elements;"
+art_2,(c)
+art_2,"label linkbase, which describes the meaning of each taxonomy element;"
+art_2,(d)
+art_2,"definition linkbase, which reflects dimensional relationships of the core taxonomy elements;"
+art_2,(3)
+art_2,‘XHTML format’ means a standard type of format in Hyper Text Markup Language (HTML) complying with the Extensible Hyper Text Markup Language (XHTML);
+art_2,(4)
+art_2,‘Inline XBRL’ means a specification of the eXtensible Business Reporting Language (XBRL) standard developed by XBRL International.
+d1e301-1-1,Article 3
+art_3.tit_1,Common template
+art_3,Undertakings shall ensure that the visual presentation and content of the report on income tax information comply with the specifications provided for in Annex I.
+d1e308-1-1,Article 4
+art_4.tit_1,Electronic reporting format and rules on mark-ups
+004.001,"1. When drawing up the report on income tax information, undertakings shall ensure the following:"
+004.001,(a)
+004.001,"the use of the XHTML format and the embedding of markups using the Inline XBRL specifications, in accordance with the applicable XBRL specifications set out in Annex II;"
+004.001,(b)
+004.001,"the mark-up of disclosures of information using the core taxonomy with the elements listed in Table 2 of Annex IV, in accordance with the marking up and filing requirements set out in Annex III."
+004.002,"2. Without prejudice to the obligations in paragraph 1, point (b), of this Article, undertakings may mark up disclosures of information using the core taxonomy with the elements listed in Table 3 of Annex IV."
+d1e337-1-1,Article 5
+art_5.tit_1,Transitional provisions
+art_5,Undertakings shall apply this Regulation to reports on income tax information for the financial years starting on or after 1 January 2025.
+d1e347-1-1,Article 6
+art_6.tit_1,Entry into force
+art_6,This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union .
+art_6,Official Journal of the European Union
+fnp_1,This Regulation shall be binding in its entirety and directly applicable in all Member States.
+fnp_1,"Done at Brussels, 29 November 2024."
+fnp_1,For the Commission
+fnp_1,The President
+fnp_1,Ursula VON DER LEYEN
+,"( 1 ) OJ L 182, 29.6.2013, p. 19 , ELI: http://data.europa.eu/eli/dir/2013/34/oj ."
+ntr1-L_202402952EN.000101-E0001,1
+,"( 2 ) Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC ( OJ L 176, 27.6.2013, p. 338 , ELI: http://data.europa.eu/eli/dir/2013/36/oj )."
+ntr2-L_202402952EN.000101-E0002,2
+,"( 3 ) Commission Delegated Regulation (EU) 2019/815 of 17 December 2018 supplementing Directive 2004/109/EC of the European Parliament and of the Council with regard to regulatory technical standards on the specification of a single electronic reporting format ( OJ L 143, 29.5.2019, p. 1 , http://data.europa.eu/eli/reg_del/2019/815/oj )."
+ntr3-L_202402952EN.000101-E0003,3
+,"( 4 ) Directive (EU) 2022/2464 of the European Parliament and of the Council of 14 December 2022 amending Regulation (EU) No 537/2014, Directive 2004/109/EC, Directive 2006/43/EC and Directive 2013/34/EU, as regards corporate sustainability reporting ( OJ L 322, 16.12.2022, p. 15 , ELI: http://data.europa.eu/eli/dir/2022/2464/oj )."
+ntr4-L_202402952EN.000101-E0004,4
+,"( 5 ) Council Directive 2011/16/EU of 15 February 2011 on administrative cooperation in the field of taxation and repealing Directive 77/799/EEC ( OJ L 64, 11.3.2011, p. 1 , ELI: http://data.europa.eu/eli/dir/2011/16/oj )."
+ntr5-L_202402952EN.000101-E0005,5
+d1e35-6-1,ANNEX I
+anx_I,Common template for the report on income tax information
+d1e44-6-1,REPORT ON CORPORATE INCOME TAX INFORMATION
+anx_I,in compliance with chapter 10a of Directive 2013/34/EU
+anx_I,(‘country-by-country reporting’)
+d1e58-6-1,General reporting instructions
+anx_I,"Information required by Article 48c of Directive 2013/34/EU shall be visually presented in accordance with the specifications provided in this template. Additional information may be disclosed in the report, whether in the form of text, images or other means."
+d1e67-6-1,Section 1
+L_02952EN.01000601-g-003-0003,General information
+anx_I,Name of the ultimate parent of the group / of the standalone undertaking
+anx_I,...
+anx_I,Country where the ultimate parent has its registered office
+anx_I,Financial Year – start date
+anx_I,Financial Year – end date
+anx_I,Reporting currency
+anx_I,"Is the information in the report based on reporting instructions used for tax purposes, pursuant to Section III, Parts B and C, of Annex III to Directive 2011/16/EU (yes/no)?"
+d1e109-6-1,Specific reporting instructions for Section 1
+anx_I,The name of the ultimate parent of the group / of the standalone undertaking shall correspond to the name provided in the statutes or instruments of incorporation of the undertaking to which the report on income tax information relates.
+anx_I,"Whether the reporting instructions pursuant to Section III, Parts B and C, of Annex III to Council Directive 2011/16/EU have been used as a basis to draw up the report, pursuant to Article 48c(3) of Directive 2013/34/EU, this shall be indicated. In the template this would be done by stating ‘yes’ or ‘no’ in the appropriate box. In the case where a reporting undertaking chooses to apply those instructions, these shall apply consistently to Section 2 and 3. These reporting instructions take into account the OECD standards in relation to action 13 of its Action Plan on Base Erosion and Profit Shifting (BEPS)."
+d1e128-6-1,Section 2
+L_02952EN.01000601-g-005-0005,Overview of information on a country-by-country basis
+anx_I,Tax jurisdiction
+anx_I,Country code
+anx_I,Revenues
+anx_I,Profit (loss) before income tax
+anx_I,Income tax paid – on cash basis
+anx_I,Income tax accrued – current year
+anx_I,Accumulated earnings
+anx_I,Number of employees
+anx_I,1.
+anx_I,Full name of Member State or tax jurisdiction A
+anx_I,2.
+anx_I,Full name of Member State or tax jurisdiction B
+anx_I,3.
+anx_I,All other tax jurisdictions (aggregated basis)
+anx_I,-
+d1e237-6-1,Specific reporting instructions for Section 2
+anx_I,"In the table, a given line shall correspond to a given Member State or to a given tax jurisdiction, including a country in the European Economic Area other than a Member State of the European Union, as mandated by the applicable national law."
+anx_I,"As many additional columns may be added as necessary on the right-hand side of the table, for any additional information a reporting undertaking may disclose."
+anx_I,The information required by the third subparagraph of Article 48c(5) of Directive 2013/34/EU shall be presented in the line with the heading ‘All other tax jurisdictions (aggregated basis)’. The information shall be disclosed as a zero figure or ‘nil’ if the jurisdictions disclosed line by line cover all the activities of the reporting standalone undertaking or ultimate parent undertaking.
+anx_I,"Amounts shall be reported down to the unit with no scaling applied, and with an accuracy deemed appropriate by the reporting undertaking. For example, revenues of EUR 1 234 567,89 would be reported as EUR 1 234 568 (down to the unit, no scaling). With an accuracy to the nearest EUR 1 000, the amount would be reported as EUR 1 235 000."
+anx_I,"Case where the report is not based on the reporting instructions for tax purposes pursuant to Section III, Parts B and C, of Annex III to Directive 2011/16/EU:"
+anx_I,—
+anx_I,"Revenues in a jurisdiction shall be reported with positive amounts. Conversely, where there are overall negative revenues in that jurisdiction, these shall be reported with negative amounts."
+anx_I,"Profit before income tax in a jurisdiction shall be reported with positive amounts. Conversely, where there are overall losses before tax in that jurisdiction, these shall be reported with negative amounts."
+anx_I,"Income tax paid on cash basis in a jurisdiction shall be reported with positive amounts. Conversely, where there is an overall net refund of income tax in that jurisdiction, or where refunds of income tax exceeded payments of income tax in the same financial year, income tax paid (on cash basis) shall be reported with negative amounts."
+anx_I,"Income tax accrued – during the course of the current year in a jurisdiction shall be reported with positive amounts where this corresponds to an overall accrued tax expense in that jurisdiction. Conversely, where there is an overall accrued tax credit in that jurisdiction, the amounts shall be reported with negative amounts."
+anx_I,"Accumulated earnings in a jurisdiction shall be reported with positive amounts where there are net accumulated profits overall in that jurisdiction. Conversely, where there are overall net accumulated losses in a jurisdiction, accumulated earnings shall be reported with negative amounts."
+anx_I,The number of employees in a jurisdiction shall be reported with positive amounts. Decimals may be shown as deemed appropriate by the reporting standalone undertaking or ultimate parent undertaking.
+anx_I,"Case where the report is based on the reporting instructions for tax purposes pursuant to Section III, Parts B and C, of Annex III to Council Directive 2011/16/EU:"
+anx_I,Information relating to undertakings deemed not to be resident in any tax jurisdiction for tax purposes shall be included in the line ‘All other tax jurisdictions (aggregated basis)’.
+d1e305-6-1,Section 3
+L_02952EN.01000601-g-007-0007,List of subsidiaries and activities
+anx_I,Member State or tax jurisdiction
+anx_I,Name of each subsidiary undertaking in the Member State or tax jurisdiction
+anx_I,Brief description of the nature of activities in the Member State or tax jurisdiction
+anx_I,Subsidiary a
+anx_I,Subsidiary b
+anx_I,Subsidiary c
+anx_I,....
+anx_I,Subsidiary d
+anx_I,Subsidiary e
+anx_I,Subsidiary f
+d1e379-6-1,Specific reporting instructions for Section 3
+anx_I,"The lines in the table shall correspond to the lines disclosed in Section 2 per Member State or tax jurisdictions. However, the table for Section 3 need not include the line ‘All other tax jurisdictions (aggregated basis)’."
+anx_I,"The name of the subsidiary undertakings in the Member State or tax jurisdiction shall be disclosed for each subsidiary undertaking consolidated in the financial statements of the ultimate parent undertaking in respect of the relevant financial year, and presented in the line corresponding to the Member State or tax jurisdictions in which that subsidiary is established. Establishments, fixed places of business or permanent business activities other than those operating via a subsidiary undertaking need not be disclosed."
+anx_I,"Case where the report is not based on the reporting instructions for tax purposes pursuant to Section III, Parts B and C, of Annex III to Council Directive 2011/16/EU:"
+anx_I,"The ‘Brief description of the nature of activities in the Member State or tax jurisdiction’ shall be drawn up on the basis of Annex I of Regulation (EC) No 1893/2006 of the European Parliament and of the Council ( 1 ) establishing the statistical classification of economic activities (NACE), taking account of the activities of the group or standalone company in the country as a whole. For example, taking all the activities in a given country into account, where these cover section C and G of Annex I of Regulation (EC) No 1893/2006, the corresponding text would be: ‘manufacturing / wholesale and retail trade; repair of motor vehicles and motorcycles’."
+ntc1-L_202402952EN.000601-E0001,1
+anx_I,"The information required by the line entitled ‘Brief description of the nature of activities in the Member State or tax jurisdiction’ shall be disclosed on the basis of the following list of main business activities, taking into account all the activities in a given country:"
+anx_I,Research and Development
+anx_I,Holding or Managing Intellectual Property
+anx_I,Purchasing or Procurement
+anx_I,Manufacturing or Production
+anx_I,"Sales, Marketing or Distribution"
+anx_I,"Administrative, Management or Support Services"
+anx_I,Provision of Services to Unrelated Parties
+anx_I,Internal Group Finance
+anx_I,Regulated Financial Services
+anx_I,Insurance
+anx_I,Holding Shares or Other Equity instruments
+anx_I,Dormant
+anx_I,Other
+anx_I,"For instance: ‘Manufacturing or Production / Sales, Marketing or Distribution’. In the case where the activities are reported as ‘Other’, no further description is required."
+d1e486-6-1,Section 4
+L_02952EN.01000601-g-009-0009,Omitted information
+anx_I,Information omitted (if any) for this financial year:
+anx_I,.....
+anx_I,"Information omitted in previous financial years, which is disclosed in this financial year (if any):"
+d1e506-6-1,Specific reporting instructions for Section 4
+anx_I,Applicable national law pursuant to Article 48c(6) of Directive 2013/34/EU may provide for the ability to temporarily omit information.
+anx_I,"Where information is omitted in either table laid down in section 2 or 3, this shall be disclosed in the first box in Section 4. For each item omitted (if any), the description of such item as well as a duly reasoned explanation regarding the reason for the omission shall be provided in the box."
+anx_I,"For information that had been omitted in a previous financial year and which is disclosed in the report on income tax information for the current financial year, the description of each item shall be provided in the second box in Section 4, indicating for each item disclosed the financial year in which the information had been omitted."
+d1e519-6-1,Section 5 (non-mandatory)
+d1e519-6-1,Section 5
+L_02952EN.01000601-g-013-0013,Explanations for material discrepancies between income tax paid and accrued
+anx_I,"Explanations on material discrepancies between amounts of income tax accrued during the relevant financial year and amounts of income tax paid on a cash basis as disclosed in Section 2, where applicable at group level, considering where appropriate corresponding amounts concerning previous financial years:"
+d1e535-6-1,Specific reporting instructions for Section 5
+anx_I,"Unless provided otherwise by the applicable national law, it is left to the discretion of reporting undertakings whether or not to provide such information. Should no such information be disclosed, this section may be omitted. This section is mentioned in this common template by reference to Article 48c(7) of Directive 2013/34/EU."
+anx_I,"( 1 ) Regulation (EC) No 1893/2006 of the European Parliament and of the Council of 20 December 2006 establishing the statistical classification of economic activities NACE Revision 2 and amending Council Regulation (EEC) No 3037/90 as well as certain EC Regulations on specific statistical domains ( OJ L 393, 30.12.2006, p. 1 , ELI: http://data.europa.eu/eli/reg/2006/1893/oj )."
+ntr1-L_202402952EN.000601-E0001,1
+d1e35-12-1,ANNEX II
+anx_II,Applicable XBRL specifications
+anx_II,1.
+anx_II,Undertakings shall ensure that the Inline XBRL instance document is valid with respect to the Inline XBRL 1.1 specification and is in conformity with the XBRL Units Registry.
+anx_II,2.
+anx_II,Undertakings shall provide the Inline XBRL instance document as a stand-alone XHTML file. The Inline XBRL instance document can have either a.html or.xhtml extension when submitted.
+anx_II,3.
+anx_II,Undertakings shall ensure that the Inline XBRL instance document respects the marking up and filing requirements set out in Annex III.
+anx_II,The XBRL standards are open and freely licensed by way of the XBRL International License Agreement. The use of XBRL registered trademarks is permitted by XBRL International in accordance with the XBRL International Trademark Policy.
+d1e35-13-1,ANNEX III
+anx_III,Marking up and filing requirements
+anx_III,1.
+anx_III,"When disclosing information on currency, the ISO 4217:2015 Currency codes shall be used ( 1 ) ."
+ntc1-L_202402952EN.001301-E0001,1
+anx_III,2.
+anx_III,"When reporting information on country code, the ISO 3166-1:2020 alpha-2 country codes shall be used ( 2 ) ."
+ntc2-L_202402952EN.001301-E0002,2
+anx_III,3.
+anx_III,"When reporting information on dates, the date component shall follow the ISO 8601-1:2019 date in UTC format YYYY-MM-DD ( 3 ) ."
+ntc3-L_202402952EN.001301-E0003,3
+anx_III,4.
+anx_III,"Undertakings shall identify themselves in the Inline XBRL instance document using XBRL context entity identifiers and schemes. The identifier shall be a string of characters allowing for the unique identification of the reporting undertaking and shall correspond to the name of the ultimate parent or standalone undertaking as disclosed in Annex I, Section 1. By way of derogation to the second sentence of this paragraph, undertakings may substitute the name with either one of the following identifiers:"
+anx_III,a)
+anx_III,"a European unique identifier (EUID) as referred to in Article 16(1) of Directive (EU) 2017/1132 of the European Parliament and of the Council ( 4 ) ,"
+ntc4-L_202402952EN.001301-E0004,4
+anx_III,b)
+anx_III,"an ISO 17442 compliant legal entity identifier, or"
+anx_III,c)
+anx_III,a tax identification number.
+anx_III,5.
+anx_III,"Undertakings shall ensure that the Inline XBRL instance document contains data of a single undertaking, so that all entity identifiers in contexts shall have identical content."
+anx_III,6.
+anx_III,"When marking up disclosures, undertakings shall use the core taxonomy element with the closest meaning to the meaning of the disclosure being marked up. Where there appears to be a choice of core taxonomy elements, issuers shall select the element with the narrowest meaning and/or scope."
+anx_III,7.
+anx_III,"When disclosing numeric facts, undertakings shall use numeric elements listed in the core taxonomy and shall disclose exact values for such numeric facts with no scaling. Undertakings may apply any accuracy that they deem appropriate."
+anx_III,8.
+anx_III,"When marking up disclosures, undertakings shall use non-numeric elements listed in the core taxonomy in a way that these mark up all disclosures that match the meaning of the respective element. Undertakings shall not apply the markups only partially or selectively."
+anx_III,9.
+anx_III,Undertakings shall ensure that the Inline XBRL instance document does not contain executable code.
+anx_III,( 1 ) https://www.iso.org/standard/64758.html .
+ntr1-L_202402952EN.001301-E0001,1
+anx_III,( 2 ) https://www.iso.org/standard/72482.html .
+ntr2-L_202402952EN.001301-E0002,2
+anx_III,( 3 ) https://www.iso.org/obp/ui/en/#iso:std:iso:8601:-1:ed-1:v1:en .
+ntr3-L_202402952EN.001301-E0003,3
+anx_III,"( 4 ) Directive (EU) 2017/1132 of the European Parliament and of the Council of 14 June 2017 relating to certain aspects of company law (codification) ( OJ L 169, 30.6.2017, p. 46 , ELI: http://data.europa.eu/eli/dir/2017/1132/oj )."
+ntr4-L_202402952EN.001301-E0004,4
+d1e35-14-1,ANNEX IV
+anx_IV,Taxonomy elements
+d1e44-14-1-table,Table 1
+anx_IV,Legend for the element type and attributes
+anx_IV,Data / Attribute type
+anx_IV,Definition
+anx_IV,abstract
+anx_IV,denotes a grouping element or a header
+anx_IV,date
+anx_IV,denotes that the element type is a date; dates are non-numeric line items
+anx_IV,instant or duration
+anx_IV,denotes that a monetary value or a numeric line item represents a stock (if instant) or a flow (if duration)
+anx_IV,line items
+anx_IV,denote elements in rows of a table
+anx_IV,table
+anx_IV,denotes the beginning of a structure represented by a table
+anx_IV,text
+anx_IV,denotes that the element type is text (a sequence of alphanumeric characters); it is used to mark up short pieces of narrative information; text elements are non-numeric line items
+anx_IV,text block
+anx_IV,denotes that the element type is a block of text; it is used to mark up larger pieces of information; text blocks are non-numeric line items
+anx_IV,true/false
+anx_IV,denotes that element type is a true or false statement; true/false statements are non-numeric line items
+anx_IV,typed axis
+anx_IV,"denotes a dimensional property in a tabular structure, where the format for such dimensional property is defined in the taxonomy and the value of such dimensional property is provided by an undertaking in the report"
+anx_IV,X
+anx_IV,denotes that the element type is monetary (a number in a declared currency); these elements are numeric line items
+anx_IV,X.XX
+anx_IV,denotes that element type is a decimalised value; these elements are numeric line items
+d1e116-14-1-table,Table 2
+anx_IV,List of taxonomy elements
+anx_IV,Element name
+anx_IV,Element type and attributes
+anx_IV,Label type
+anx_IV,Label content
+anx_IV,References
+anx_IV,AccumulatedEarnings
+anx_IV,X instant
+anx_IV,Label
+anx_IV,Accumulated earnings
+anx_IV,"Article 48c(2)(h), Directive 2013/34/EU"
+anx_IV,AccumulatedEarningsOtherTaxJurisdictions
+anx_IV,"Accumulated earnings, other tax jurisdictions"
+anx_IV,"Article 48c(5), Directive 2013/34/EU"
+anx_IV,ApplicationOfOptionToReportInAccordanceWithTaxationReportingInstructions
+anx_IV,Application of option to report in accordance with taxation reporting instructions
+anx_IV,"Article 48c(3), Directive 2013/34/EU"
+anx_IV,VerboseLabel
+anx_IV,"Option to use reporting instructions referred to in Section III, Parts B and C, of Annex III to Council Directive 2011/16/EU is applied"
+anx_IV,CountryCodeOfMemberStateOrTaxJurisdiction
+anx_IV,Country code of Member State or tax jurisdiction
+anx_IV,CountryOfRegisteredOfficeOfUltimateParentUndertaking
+anx_IV,Country of registered office of ultimate parent undertaking
+anx_IV,Country where ultimate parent has its registered office
+anx_IV,DateOfEndOfFinancialYear
+anx_IV,Date of end of financial year
+anx_IV,"Article 48c(2)(a), Directive 2013/34/EU"
+anx_IV,DateOfStartOfFinancialYear
+anx_IV,Date of start of financial year
+anx_IV,DescriptionOfNatureOfActivitiesOfSubsidiaryUndertakingsInMemberStateOrTaxJurisdictionExplanatory
+anx_IV,Description of nature of activities of subsidiary undertakings in Member State or tax jurisdiction [text block]
+anx_IV,"Article 48c(2)(b), Directive 2013/34/EU"
+anx_IV,Brief description per country of nature of activities in Member State or tax jurisdiction
+anx_IV,DisclosureOfInformationOmittedForPreviousFinancialYearsExplanatory
+anx_IV,Disclosure of information omitted for previous financial years [text block]
+anx_IV,"Article 48c(6), Directive 2013/34/EU"
+anx_IV,DisclosureOfNamesOfSubsidiaryUndertakingsConsolidatedInFinancialStatementsOfUltimateParentUndertakingExplanatory
+anx_IV,Disclosure of names of subsidiary undertakings consolidated in financial statements of ultimate parent undertaking [text block]
+anx_IV,TerseLabel
+anx_IV,Name of subsidiary undertakings consolidated in financial statements of ultimate parent undertaking
+anx_IV,DisclosureOfTypeOfInformationOmittedExplanatory
+anx_IV,Disclosure of type of information omitted [text block]
+anx_IV,Information omitted
+anx_IV,DisclosureOfTypeOfInformationOmittedOtherTaxJurisdictionsExplanatory
+anx_IV,"Disclosure of type of information omitted, other tax jurisdictions [text block]"
+anx_IV,"Information omitted, other tax jurisdictions"
+anx_IV,ExplanationOfAnyMaterialDiscrepanciesBetweenIncomeTaxPaidAndAccruedAbstract
+anx_IV,Explanation of any material discrepancies between income tax paid and accrued [abstract]
+anx_IV,ExplanationOfAnyMaterialDiscrepanciesBetweenIncomeTaxPaidAndAccruedExplanatory
+anx_IV,Explanation of any material discrepancies between income tax paid and accrued [text block]
+anx_IV,"Article 48c(7), Directive 2013/34/EU"
+anx_IV,ExplanationOfReasonForOmissionOfInformationExplanatory
+anx_IV,Explanation of reason for omission of information [text block]
+anx_IV,GeneralInformationAbstract
+anx_IV,General information [abstract]
+anx_IV,IncomeTaxAccrued
+anx_IV,X duration
+anx_IV,Income tax accrued
+anx_IV,"Article 48c(2)(f), Directive 2013/34/EU"
+anx_IV,Income tax accrued – current year
+anx_IV,IncomeTaxAccruedOtherTaxJurisdictions
+anx_IV,"Income tax accrued, other tax jurisdictions"
+anx_IV,"Income tax accrued – current year, other tax jurisdictions"
+anx_IV,IncomeTaxPaidOnCashBasis
+anx_IV,Income tax paid (on cash basis)
+anx_IV,"Article 48c(2)(g), Directive 2013/34/EU"
+anx_IV,IncomeTaxPaidOnCashBasisOtherTaxJurisdictions
+anx_IV,"Income tax paid (on cash basis), other tax jurisdictions"
+anx_IV,ListOfSubsidiariesAndActivitiesAbstract
+anx_IV,List of subsidiaries and activities [abstract]
+anx_IV,ListOfSubsidiariesAndActivitiesLineItems
+anx_IV,List of subsidiaries and activities [line items]
+anx_IV,ListOfSubsidiariesAndActivitiesTable
+anx_IV,List of subsidiaries and activities [table]
+anx_IV,NameOfMemberStateOrTaxJurisdictionTypedAxis
+anx_IV,Name of Member State or tax jurisdiction [typed axis]
+anx_IV,NameOfSingleSubsidiaryPublishingNonEUUndertakingReport
+anx_IV,Name and registered office of a single subsidiary undertaking which has published the report on income tax information of an undertaking that is not governed by the law of a Member State
+anx_IV,"Article 48b(6)(b), Directive 2013/34/EU"
+anx_IV,NameOfSingleBranchPublishingNonEUUndertakingReport
+anx_IV,Name and address of a single branch which has published the report on income tax information of an undertaking that is not governed by the law of a Member State
+anx_IV,NameOfUltimateParentOfGroupOfStandaloneCompany
+anx_IV,Name of ultimate parent of group / of standalone company
+anx_IV,Name of ultimate parent of group / of standalone company (complete as per statutes or business register)
+anx_IV,NumberOfEmployees
+anx_IV,X.XX instant
+anx_IV,Number of employees
+anx_IV,"Article 48c(2)(c), Directive 2013/34/EU"
+anx_IV,NumberOfEmployeesOtherTaxJurisdictions
+anx_IV,"Number of employees, other tax jurisdictions"
+anx_IV,OmittedInformationAbstract
+anx_IV,Omitted information [abstract]
+anx_IV,OverviewOfAllocationOfElementsOnCountrybycountryBasisAbstract
+anx_IV,Overview of allocation of elements on country-by-country basis [abstract]
+anx_IV,OverviewOfAllocationOfElementsOnCountrybycountryBasisAllOtherTaxJurisdictionsAggregatedBasisAbstract
+anx_IV,"Overview of allocation of elements on country-by-country basis, all other tax jurisdictions (aggregated basis) [abstract]"
+anx_IV,OverviewOfAllocationOfElementsOnCountrybycountryBasisMemberStateOrTaxJurisdictionAbstract
+anx_IV,"Overview of allocation of elements on country-by-country basis, Member State or tax jurisdiction [abstract]"
+anx_IV,OverviewOfAllocationOfElementsOnCountrybycountryBasisMemberStateOrTaxJurisdictionLineItems
+anx_IV,"Overview of allocation of elements on country-by-country basis, Member State or tax jurisdiction [line items]"
+anx_IV,OverviewOfAllocationOfElementsOnCountrybycountryBasisMemberStateOrTaxJurisdictionTable
+anx_IV,"Overview of allocation of elements on country-by-country basis, Member State or tax jurisdiction [table]"
+anx_IV,ProfitLossBeforeTax
+anx_IV,Profit (loss) before tax
+anx_IV,"Article 48c(2)(e), Directive 2013/34/EU"
+anx_IV,Profit (loss) before income tax
+anx_IV,ProfitLossBeforeTaxOtherTaxJurisdictions
+anx_IV,"Profit (loss) before tax, other tax jurisdictions"
+anx_IV,"Profit (loss) before income tax, other tax jurisdictions"
+anx_IV,ReportingCurrency
+anx_IV,Reporting currency
+anx_IV,"Article 48c(2)(a), and Article 48(c)8, Directive 2013/34/EU"
+anx_IV,Revenues
+anx_IV,Revenue
+anx_IV,"Article 48c(2)(d), Directive 2013/34/EU"
+anx_IV,RevenuesOtherTaxJurisdictions
+anx_IV,"Revenue, other tax jurisdictions"
+anx_IV,"Revenues, other tax jurisdictions"
+d1e647-14-1-table,Table 3
+anx_IV,List of additional taxonomy elements
+anx_IV,Assets
+anx_IV,Tangible assets other than cash and cash equivalents
+anx_IV,AssetsOtherTaxJurisdictions
+anx_IV,"Tangible assets other than cash and cash equivalents, other tax jurisdictions"
+anx_IV,Capital
+anx_IV,Stated capital
+anx_IV,CapitalOtherTaxJurisdictions
+anx_IV,"Stated capital, other tax jurisdictions"
+anx_IV,LanguageOfReport
+anx_IV,Language of report
+anx_IV,PublicSubsidiesReceived
+anx_IV,Public subsidies received
+anx_IV,PublicSubsidiesReceivedOtherTaxJurisdictions
+anx_IV,"Public subsidies received, other tax jurisdictions"
+anx_IV,RevenuesRelated
+anx_IV,Revenues from transactions with related parties
+anx_IV,RevenuesRelatedOtherTaxJurisdictions
+anx_IV,"Revenues from transactions with related parties, other tax jurisdictions"
+anx_IV,RevenuesUnrelated
+anx_IV,Revenues from transactions with non-related parties
+anx_IV,RevenuesUnrelatedOtherTaxJurisdictions
+anx_IV,"Revenues from transactions with non-related parties, other tax jurisdictions"
+,ELI: http://data.europa.eu/eli/reg_impl/2024/2952/oj
+,ISSN 1977-0677 (electronic edition)
