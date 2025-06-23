@@ -22,13 +22,18 @@ A Streamlit-based RAG (Retrieval-Augmented Generation) chatbot designed to answe
    cd code
    streamlit run app.py
    ```
+2. Get answer for the purpose of evaluation
+   ```sh
+   cd code
+   python evaluation.py
+   ```
 
 ## Features
-	•	🧠 RAG-based Question Answering using LangChain
-	•	📄 Document Parsing from CSV-based scraped content
-	•	🔎 FAISS Vector Store for semantic search
-	•	🤖 GPT-4 Chat Integration via OpenAI API
-	•	💬 Streamlit Web Interface
-	•	🗃️ Chat History with context persistence
-	•	📋 Evaluation Mode for batch question testing
-	•	✅ Test Result Logging with context/answers and timestamps
+🧠 RAG-based Question Answering using LangChain
+•	📄 Document Parsing from CSV-based scraped content
+•	🔎 FAISS Vector Store for semantic search
+•	🤖 GPT-4 Chat Integration via OpenAI API
+•	💬 Streamlit Web Interface
+•	🗃️ Chat History with context persistence
+•	📋 Evaluation Mode for batch question testing
+•	✅ Test Result Logging with context/answers and timestamps

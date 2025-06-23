@@ -26,6 +26,7 @@ def evaluate_chatbot_questions(questions_list):
 
     return answers_list
 
+
 # Read the question csv
 df_questions = pd.read_csv('../evaluation/evaluation_question/evaluation_question.csv')
 df_questions = df_questions.dropna(subset=['Question'])
