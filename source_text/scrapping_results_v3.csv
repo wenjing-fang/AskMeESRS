@@ -92,3 +92,727 @@ Importance of OECD works,"The directive  refers  to  the  OECD  Model  rules  an
 Scope,"The BEFIT rules foresee a hybrid scope. On one side, a mandatory scope comprises (domestic and multinational) groups  which  (i)  prepare  consolidated  financial  statements, (ii) had annual combined revenues of at least 750 million in at least 2 of the preceding 4 fiscal years and (iii) the ultimate parent entity holds at least 75% of the ownership rights or the rights giving entitlement to profit. Additionally,  if  the  group  is  headquartered  outside  the European Union, the EU sub-set will need to additionally raise at least 5% of group revenues in the European Union or the amount of EUR 50 million annual combined revenues in at least 2 of the preceding 4 fiscal years. In-scope groups include the entities that meet the 75% ownership framework. On the other side, a voluntary scope comprises smaller groups  that  prepare  consolidated  financial  statements. When a group opts in for this regime, the BEFIT rules apply  to  all  EU  entities  and  permanent  establishments that meet the ownership threshold of 75%. In this case, they are bound for a minimum period of 5 years. Although the rules would cover all sectors, certain sectorspecific characteristics are included, such as a carve-out from the BEFIT tax base (which is discussed below) for shipping  income  covered  by  a  national  tonnage  tax regime. Notes Notes"
 IBFD Head Office,Tel.: +31-20-554 0100 (GMT+2) Email: info@ibfd.org
 Visitors' Address:,"Rietlandpark 301 1019 DW, Amsterdam The Netherlands Postal Address: P.O. Box 20237 1000 HE Amsterdam The Netherlands"
+ANNEX1_GENERAL_INSTRUCTION,"Information required by Article 48c of Directive 2013/34/EU shall be visually presented in accordance with the specifications provided in this template. Additional information may be disclosed in the report, whether in the form of text, images or other means."
+ANNEX1_SECTION1,"The name of the ultimate parent of the group / of the standalone undertaking shall correspond to the name provided in the statutes or instruments of incorporation of the undertaking to which the report on income tax information relates.
+
+Whether the reporting instructions pursuant to Section III, Parts B and C, of Annex III to Council Directive 2011/16/EU have been used as a basis to draw up the report, pursuant to Article 48c(3) of Directive 2013/34/EU, this shall be indicated. In the template this would be done by stating ‘yes’ or ‘no’ in the appropriate box. In the case where a reporting undertaking chooses to apply those instructions, these shall apply consistently to Section 2 and 3. These reporting instructions take into account the OECD standards in relation to action 13 of its Action Plan on Base Erosion and Profit Shifting (BEPS).
+"
+ANNEX1_SECTION2,"In the table, a given line shall correspond to a given Member State or to a given tax jurisdiction, including a country in the European Economic Area other than a Member State of the European Union, as mandated by the applicable national law.
+
+As many additional columns may be added as necessary on the right-hand side of the table, for any additional information a reporting undertaking may disclose.
+
+The information required by the third subparagraph of Article 48c(5) of Directive 2013/34/EU shall be presented in the line with the heading ‘All other tax jurisdictions (aggregated basis)’. The information shall be disclosed as a zero figure or ‘nil’ if the jurisdictions disclosed line by line cover all the activities of the reporting standalone undertaking or ultimate parent undertaking.
+
+Amounts shall be reported down to the unit with no scaling applied, and with an accuracy deemed appropriate by the reporting undertaking. For example, revenues of EUR 1 234 567,89 would be reported as EUR 1 234 568 (down to the unit, no scaling). With an accuracy to the nearest EUR 1 000, the amount would be reported as EUR 1 235 000.
+
+Case where the report is not based on the reporting instructions for tax purposes pursuant to Section III, Parts B and C, of Annex III to Directive 2011/16/EU:
+
+—
+
+Revenues in a jurisdiction shall be reported with positive amounts. Conversely, where there are overall negative revenues in that jurisdiction, these shall be reported with negative amounts.
+
+—
+
+Profit before income tax in a jurisdiction shall be reported with positive amounts. Conversely, where there are overall losses before tax in that jurisdiction, these shall be reported with negative amounts.
+
+—
+
+Income tax paid on cash basis in a jurisdiction shall be reported with positive amounts. Conversely, where there is an overall net refund of income tax in that jurisdiction, or where refunds of income tax exceeded payments of income tax in the same financial year, income tax paid (on cash basis) shall be reported with negative amounts.
+
+—
+
+Income tax accrued – during the course of the current year in a jurisdiction shall be reported with positive amounts where this corresponds to an overall accrued tax expense in that jurisdiction. Conversely, where there is an overall accrued tax credit in that jurisdiction, the amounts shall be reported with negative amounts.
+
+—
+
+Accumulated earnings in a jurisdiction shall be reported with positive amounts where there are net accumulated profits overall in that jurisdiction. Conversely, where there are overall net accumulated losses in a jurisdiction, accumulated earnings shall be reported with negative amounts.
+
+—
+
+The number of employees in a jurisdiction shall be reported with positive amounts. Decimals may be shown as deemed appropriate by the reporting standalone undertaking or ultimate parent undertaking.
+
+Case where the report is based on the reporting instructions for tax purposes pursuant to Section III, Parts B and C, of Annex III to Council Directive 2011/16/EU:
+
+—
+
+Information relating to undertakings deemed not to be resident in any tax jurisdiction for tax purposes shall be included in the line ‘All other tax jurisdictions (aggregated basis)’."
+ANNEX1_SECTION3,"The lines in the table shall correspond to the lines disclosed in Section 2 per Member State or tax jurisdictions. However, the table for Section 3 need not include the line ‘All other tax jurisdictions (aggregated basis)’.
+
+The name of the subsidiary undertakings in the Member State or tax jurisdiction shall be disclosed for each subsidiary undertaking consolidated in the financial statements of the ultimate parent undertaking in respect of the relevant financial year, and presented in the line corresponding to the Member State or tax jurisdictions in which that subsidiary is established. Establishments, fixed places of business or permanent business activities other than those operating via a subsidiary undertaking need not be disclosed.
+
+Case where the report is not based on the reporting instructions for tax purposes pursuant to Section III, Parts B and C, of Annex III to Council Directive 2011/16/EU:
+
+—
+
+The ‘Brief description of the nature of activities in the Member State or tax jurisdiction’ shall be drawn up on the basis of Annex I of Regulation (EC) No 1893/2006 of the European Parliament and of the Council (1) establishing the statistical classification of economic activities (NACE), taking account of the activities of the group or standalone company in the country as a whole. For example, taking all the activities in a given country into account, where these cover section C and G of Annex I of Regulation (EC) No 1893/2006, the corresponding text would be: ‘manufacturing / wholesale and retail trade; repair of motor vehicles and motorcycles’.
+
+Case where the report is based on the reporting instructions for tax purposes pursuant to Section III, Parts B and C, of Annex III to Council Directive 2011/16/EU:
+
+—
+
+The information required by the line entitled ‘Brief description of the nature of activities in the Member State or tax jurisdiction’ shall be disclosed on the basis of the following list of main business activities, taking into account all the activities in a given country:
+
+—
+
+Research and Development
+
+—
+
+Holding or Managing Intellectual Property
+
+—
+
+Purchasing or Procurement
+
+—
+
+Manufacturing or Production
+
+—
+
+Sales, Marketing or Distribution
+
+—
+
+Administrative, Management or Support Services
+
+—
+
+Provision of Services to Unrelated Parties
+
+—
+
+Internal Group Finance
+
+—
+
+Regulated Financial Services
+
+—
+
+Insurance
+
+—
+
+Holding Shares or Other Equity instruments
+
+—
+
+Dormant
+
+—
+
+Other
+
+—
+
+For instance: ‘Manufacturing or Production / Sales, Marketing or Distribution’. In the case where the activities are reported as ‘Other’, no further description is required."
+ANNEX1_SECTION4,"Applicable national law pursuant to Article 48c(6) of Directive 2013/34/EU may provide for the ability to temporarily omit information.
+
+Where information is omitted in either table laid down in section 2 or 3, this shall be disclosed in the first box in Section 4. For each item omitted (if any), the description of such item as well as a duly reasoned explanation regarding the reason for the omission shall be provided in the box.
+
+For information that had been omitted in a previous financial year and which is disclosed in the report on income tax information for the current financial year, the description of each item shall be provided in the second box in Section 4, indicating for each item disclosed the financial year in which the information had been omitted."
+ANNEX1_SECTION5,"Non-mandatory. Explanations for material discrepancies between income tax paid and accrued. Unless provided otherwise by the applicable national law, it is left to the discretion of reporting undertakings whether or not to provide such information. Should no such information be disclosed, this section may be omitted. This section is mentioned in this common template by reference to Article 48c(7) of Directive 2013/34/EU.
+
+Explanations on material discrepancies between amounts of income tax accrued during the relevant financial year and amounts of income tax paid on a cash basis as disclosed in Section 2, where applicable at group level, considering where appropriate corresponding amounts concerning previous financial years:"
+ANNEX2,"1.    Undertakings shall ensure that the Inline XBRL instance document is valid with respect to the Inline XBRL 1.1 specification and is in conformity with the XBRL Units Registry.
+2.    Undertakings shall provide the Inline XBRL instance document as a stand-alone XHTML file. The Inline XBRL instance document can have either a.html or.xhtml extension when submitted.
+3.    Undertakings shall ensure that the Inline XBRL instance document respects the marking up and filing requirements set out in Annex III."
+ANNEX3,"1.    When disclosing information on currency, the ISO 4217:2015 Currency codes shall be used (1).
+2.    When reporting information on country code, the ISO 3166-1:2020 alpha-2 country codes shall be used (2).
+3.    When reporting information on dates, the date component shall follow the ISO 8601-1:2019 date in UTC format YYYY-MM-DD (3).
+4.    Undertakings shall identify themselves in the Inline XBRL instance document using XBRL context entity identifiers and schemes. The identifier shall be a string of characters allowing for the unique identification of the reporting undertaking and shall correspond to the name of the ultimate parent or standalone undertaking as disclosed in Annex I, Section 1. By way of derogation to the second sentence of this paragraph, undertakings may substitute the name with either one of the following identifiers:
+a)
+
+a European unique identifier (EUID) as referred to in Article 16(1) of Directive (EU) 2017/1132 of the European Parliament and of the Council (4),
+
+b)
+
+an ISO 17442 compliant legal entity identifier, or
+
+c)
+
+a tax identification number.
+
+5.    Undertakings shall ensure that the Inline XBRL instance document contains data of a single undertaking, so that all entity identifiers in contexts shall have identical content.
+6.    When marking up disclosures, undertakings shall use the core taxonomy element with the closest meaning to the meaning of the disclosure being marked up. Where there appears to be a choice of core taxonomy elements, issuers shall select the element with the narrowest meaning and/or scope.
+7.    When disclosing numeric facts, undertakings shall use numeric elements listed in the core taxonomy and shall disclose exact values for such numeric facts with no scaling. Undertakings may apply any accuracy that they deem appropriate.
+8.    When marking up disclosures, undertakings shall use non-numeric elements listed in the core taxonomy in a way that these mark up all disclosures that match the meaning of the respective element. Undertakings shall not apply the markups only partially or selectively.
+9.    Undertakings shall ensure that the Inline XBRL instance document does not contain executable code."
+ANNEX4_T1,"abstract denotes a grouping element or a header. date means denotes that the element type is a date; dates are non-numeric line itemsinstant or duration means denotes that a monetary value or a numeric line item represents a stock (if instant) or a flow (if duration)line items means denote elements in rows of a tabletable means denotes the beginning of a structure represented by a tabletext means denotes that the element type is text (a sequence of alphanumeric characters); it is used to mark up short pieces of narrative information; text elements are non-numeric line itemstext block means denotes that the element type is a block of text; it is used to mark up larger pieces of information; text blocks are non-numeric line itemstrue/false means denotes that element type is a true or false statement; true/false statements are non-numeric line itemstyped axis means denotes a dimensional property in a tabular structure, where the format for such dimensional property is defined in the taxonomy and the value of such dimensional property is provided by an undertaking in the reportX means denotes that the element type is monetary (a number in a declared currency); these elements are numeric line itemsX.XX means denotes that element type is a decimalised value; these elements are numeric line items"
+ANNEX4_T2,"Element name
+
+Element type and attributes
+
+Label type
+
+Label content
+
+References
+
+AccumulatedEarnings
+
+X instant
+
+Label
+
+Accumulated earnings
+
+Article 48c(2)(h), Directive 2013/34/EU
+
+AccumulatedEarningsOtherTaxJurisdictions
+
+X instant
+
+Label
+
+Accumulated earnings, other tax jurisdictions
+
+Article 48c(5), Directive 2013/34/EU
+
+ApplicationOfOptionToReportInAccordanceWithTaxationReportingInstructions
+
+True/False
+
+Label
+
+Application of option to report in accordance with taxation reporting instructions
+
+Article 48c(3), Directive 2013/34/EU
+
+VerboseLabel
+
+Option to use reporting instructions referred to in Section III, Parts B and C, of Annex III to Council Directive 2011/16/EU is applied
+
+CountryCodeOfMemberStateOrTaxJurisdiction
+
+Text
+
+Label
+
+Country code of Member State or tax jurisdiction
+
+Article 48c(5), Directive 2013/34/EU
+
+CountryOfRegisteredOfficeOfUltimateParentUndertaking
+
+Text
+
+Label
+
+Country of registered office of ultimate parent undertaking
+
+ 
+
+VerboseLabel
+
+Country where ultimate parent has its registered office
+
+DateOfEndOfFinancialYear
+
+Date
+
+Label
+
+Date of end of financial year
+
+Article 48c(2)(a), Directive 2013/34/EU
+
+DateOfStartOfFinancialYear
+
+Date
+
+Label
+
+Date of start of financial year
+
+Article 48c(2)(a), Directive 2013/34/EU
+
+DescriptionOfNatureOfActivitiesOfSubsidiaryUndertakingsInMemberStateOrTaxJurisdictionExplanatory
+
+Text block
+
+Label
+
+Description of nature of activities of subsidiary undertakings in Member State or tax jurisdiction [text block]
+
+Article 48c(2)(b), Directive 2013/34/EU
+
+VerboseLabel
+
+Brief description per country of nature of activities in Member State or tax jurisdiction
+
+DisclosureOfInformationOmittedForPreviousFinancialYearsExplanatory
+
+Text block
+
+Label
+
+Disclosure of information omitted for previous financial years [text block]
+
+Article 48c(6), Directive 2013/34/EU
+
+DisclosureOfNamesOfSubsidiaryUndertakingsConsolidatedInFinancialStatementsOfUltimateParentUndertakingExplanatory
+
+Text block
+
+Label
+
+Disclosure of names of subsidiary undertakings consolidated in financial statements of ultimate parent undertaking [text block]
+
+Article 48c(2)(a), Directive 2013/34/EU
+
+TerseLabel
+
+Name of subsidiary undertakings consolidated in financial statements of ultimate parent undertaking
+
+DisclosureOfTypeOfInformationOmittedExplanatory
+
+Text block
+
+Label
+
+Disclosure of type of information omitted [text block]
+
+Article 48c(6), Directive 2013/34/EU
+
+TerseLabel
+
+Information omitted
+
+DisclosureOfTypeOfInformationOmittedOtherTaxJurisdictionsExplanatory
+
+Text block
+
+Label
+
+Disclosure of type of information omitted, other tax jurisdictions [text block]
+
+Article 48c(6), Directive 2013/34/EU
+
+TerseLabel
+
+Information omitted, other tax jurisdictions
+
+ExplanationOfAnyMaterialDiscrepanciesBetweenIncomeTaxPaidAndAccruedAbstract
+
+ 
+
+Label
+
+Explanation of any material discrepancies between income tax paid and accrued [abstract]
+
+ 
+
+ExplanationOfAnyMaterialDiscrepanciesBetweenIncomeTaxPaidAndAccruedExplanatory
+
+Text block
+
+Label
+
+Explanation of any material discrepancies between income tax paid and accrued [text block]
+
+Article 48c(7), Directive 2013/34/EU
+
+ExplanationOfReasonForOmissionOfInformationExplanatory
+
+Text block
+
+Label
+
+Explanation of reason for omission of information [text block]
+
+Article 48c(6), Directive 2013/34/EU
+
+GeneralInformationAbstract
+
+ 
+
+Label
+
+General information [abstract]
+
+ 
+
+IncomeTaxAccrued
+
+X duration
+
+Label
+
+Income tax accrued
+
+Article 48c(2)(f), Directive 2013/34/EU
+
+VerboseLabel
+
+Income tax accrued – current year
+
+IncomeTaxAccruedOtherTaxJurisdictions
+
+X duration
+
+Label
+
+Income tax accrued, other tax jurisdictions
+
+Article 48c(5), Directive 2013/34/EU
+
+VerboseLabel
+
+Income tax accrued – current year, other tax jurisdictions
+
+IncomeTaxPaidOnCashBasis
+
+X duration
+
+Label
+
+Income tax paid (on cash basis)
+
+Article 48c(2)(g), Directive 2013/34/EU
+
+IncomeTaxPaidOnCashBasisOtherTaxJurisdictions
+
+X duration
+
+Label
+
+Income tax paid (on cash basis), other tax jurisdictions
+
+Article 48c(5), Directive 2013/34/EU
+
+ListOfSubsidiariesAndActivitiesAbstract
+
+ 
+
+Label
+
+List of subsidiaries and activities [abstract]
+
+ 
+
+ListOfSubsidiariesAndActivitiesLineItems
+
+ 
+
+Label
+
+List of subsidiaries and activities [line items]
+
+ 
+
+ListOfSubsidiariesAndActivitiesTable
+
+ 
+
+Label
+
+List of subsidiaries and activities [table]
+
+ 
+
+NameOfMemberStateOrTaxJurisdictionTypedAxis
+
+Typed axis
+
+Label
+
+Name of Member State or tax jurisdiction [typed axis]
+
+Article 48c(5), Directive 2013/34/EU
+
+NameOfSingleSubsidiaryPublishingNonEUUndertakingReport
+
+Text
+
+Label
+
+Name and registered office of a single subsidiary undertaking which has published the report on income tax information of an undertaking that is not governed by the law of a Member State
+
+Article 48b(6)(b), Directive 2013/34/EU
+
+NameOfSingleBranchPublishingNonEUUndertakingReport
+
+Text
+
+Label
+
+Name and address of a single branch which has published the report on income tax information of an undertaking that is not governed by the law of a Member State
+
+Article 48b(6)(b), Directive 2013/34/EU
+
+NameOfUltimateParentOfGroupOfStandaloneCompany
+
+Text
+
+Label
+
+Name of ultimate parent of group / of standalone company
+
+Article 48c(2)(a), Directive 2013/34/EU
+
+VerboseLabel
+
+Name of ultimate parent of group / of standalone company (complete as per statutes or business register)
+
+NumberOfEmployees
+
+X.XX instant
+
+Label
+
+Number of employees
+
+Article 48c(2)(c), Directive 2013/34/EU
+
+NumberOfEmployeesOtherTaxJurisdictions
+
+X.XX instant
+
+Label
+
+Number of employees, other tax jurisdictions
+
+Article 48c(5), Directive 2013/34/EU
+
+OmittedInformationAbstract
+
+ 
+
+Label
+
+Omitted information [abstract]
+
+ 
+
+OverviewOfAllocationOfElementsOnCountrybycountryBasisAbstract
+
+ 
+
+Label
+
+Overview of allocation of elements on country-by-country basis [abstract]
+
+ 
+
+OverviewOfAllocationOfElementsOnCountrybycountryBasisAllOtherTaxJurisdictionsAggregatedBasisAbstract
+
+ 
+
+Label
+
+Overview of allocation of elements on country-by-country basis, all other tax jurisdictions (aggregated basis) [abstract]
+
+ 
+
+OverviewOfAllocationOfElementsOnCountrybycountryBasisMemberStateOrTaxJurisdictionAbstract
+
+ 
+
+Label
+
+Overview of allocation of elements on country-by-country basis, Member State or tax jurisdiction [abstract]
+
+ 
+
+OverviewOfAllocationOfElementsOnCountrybycountryBasisMemberStateOrTaxJurisdictionLineItems
+
+ 
+
+Label
+
+Overview of allocation of elements on country-by-country basis, Member State or tax jurisdiction [line items]
+
+ 
+
+OverviewOfAllocationOfElementsOnCountrybycountryBasisMemberStateOrTaxJurisdictionTable
+
+ 
+
+Label
+
+Overview of allocation of elements on country-by-country basis, Member State or tax jurisdiction [table]
+
+ 
+
+ProfitLossBeforeTax
+
+X duration
+
+Label
+
+Profit (loss) before tax
+
+Article 48c(2)(e), Directive 2013/34/EU
+
+VerboseLabel
+
+Profit (loss) before income tax
+
+ProfitLossBeforeTaxOtherTaxJurisdictions
+
+X duration
+
+Label
+
+Profit (loss) before tax, other tax jurisdictions
+
+Article 48c(5), Directive 2013/34/EU
+
+VerboseLabel
+
+Profit (loss) before income tax, other tax jurisdictions
+
+ReportingCurrency
+
+Text
+
+Label
+
+Reporting currency
+
+Article 48c(2)(a), and Article 48(c)8, Directive 2013/34/EU
+
+Revenues
+
+X duration
+
+Label
+
+Revenue
+
+Article 48c(2)(d), Directive 2013/34/EU
+
+TerseLabel
+
+Revenues
+
+RevenuesOtherTaxJurisdictions
+
+X duration
+
+Label
+
+Revenue, other tax jurisdictions
+
+Article 48c(5), Directive 2013/34/EU"
+ANNEX4_T3,"Element name
+
+Element type and attributes
+
+Label type
+
+Label content
+
+References
+
+Assets
+
+X instant
+
+Label
+
+Tangible assets other than cash and cash equivalents
+
+ 
+
+AssetsOtherTaxJurisdictions
+
+X instant
+
+Label
+
+Tangible assets other than cash and cash equivalents, other tax jurisdictions
+
+ 
+
+Capital
+
+X instant
+
+Label
+
+Stated capital
+
+ 
+
+CapitalOtherTaxJurisdictions
+
+X instant
+
+Label
+
+Stated capital, other tax jurisdictions
+
+ 
+
+LanguageOfReport
+
+Text
+
+Label
+
+Language of report
+
+ 
+
+PublicSubsidiesReceived
+
+X duration
+
+Label
+
+Public subsidies received
+
+ 
+
+PublicSubsidiesReceivedOtherTaxJurisdictions
+
+X duration
+
+Label
+
+Public subsidies received, other tax jurisdictions
+
+ 
+
+RevenuesRelated
+
+X duration
+
+Label
+
+Revenues from transactions with related parties
+
+ 
+
+RevenuesRelatedOtherTaxJurisdictions
+
+X duration
+
+Label
+
+Revenues from transactions with related parties, other tax jurisdictions
+
+ 
+
+RevenuesUnrelated
+
+X duration
+
+Label
+
+Revenues from transactions with non-related parties
+
+ 
+
+RevenuesUnrelatedOtherTaxJurisdictions
+
+X duration
+
+Label
+
+Revenues from transactions with non-related parties, other tax jurisdictions
+
+ "
