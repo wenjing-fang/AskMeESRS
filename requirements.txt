@@ -1,14 +1,21 @@
-faiss_cpu==1.9.0.post1
-fitz==0.0.1.dev2
-langchain==0.3.24
-langchain_community==0.3.22
-langchain_huggingface==0.1.2
-langchain_ollama==0.3.2
-langchain_text_splitters==0.3.8
-pdfplumber==0.11.5
-Requests==2.32.3
-streamlit==1.41.1
-torch==2.5.1
-torch_xla==2.6.1
-tqdm==4.67.1
-transformers==4.48.1
+# Core functionality
+streamlit
+openai>=1.0.0
+python-dotenv
+tqdm
+requests
+faiss-cpu
+PyMuPDF  # for fitz
+pdfplumber
+
+# LangChain ecosystem
+langchain
+langchain-community
+langchain-huggingface
+langchain-ollama
+langchain-text-splitters
+
+# Hugging Face embeddings
+huggingface-hub
+transformers
+sentence-transformers
