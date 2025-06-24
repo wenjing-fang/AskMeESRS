@@ -1,31 +1,41 @@
 Question,Answer
-Can I do electronic reporting for EU tax?,"Yes, electronic reporting is required for EU tax reporting. The Commission has set a common template and electronic reporting formats for the presentation of the report on income tax information. These formats are designed to be machine-readable to ensure comparability. The report on income tax information should be marked up using the Inline XBRL standard, which allows for both human and machine readability.
+Can I do electronic reporting for EU tax?,"Yes, you can do electronic reporting for EU tax. The European Union has established a common template and electronic reporting formats for reports on income tax information, which are machine-readable and based on the Inline XBRL standard. This allows for the automated consumption of large amounts of information, ensuring the accessibility and comparability of data.
 
-Sources: pretext_3, art_1, pretext_6"
-Which reporting format is required for EU tax documents under this regulation?,"The required reporting format for EU tax documents under this regulation is the XHTML format. Additionally, markups should be embedded using the Inline XBRL specifications according to the applicable XBRL specifications set out in Annex II. The disclosures of information should be marked up using the core taxonomy with the elements listed in Table 2 of Annex IV, in accordance with the marking up and filing requirements set out in Annex III.
+Sources: pretext_6, pretext_3, art_2"
+Which reporting format is required for EU tax documents under this regulation?,"The required reporting format for EU tax documents under this regulation is XHTML (Extensible Hypertext Markup Language) and Inline XBRL (eXtensible Business Reporting Language). 
 
-Sources: art_4, pretext_5"
-At what revenue threshold does an undertaking need to report income tax information?,"An undertaking is required to report income tax information if the consolidated revenue on their balance sheet date exceeded a total of EUR 750,000,000 for the latter of the last two consecutive financial years.
+Sources: art_4, pretext_5, art_2"
+At what revenue threshold does an undertaking need to report income tax information?,"The revenue threshold at which an undertaking needs to report income tax information is EUR 750,000,000. 
+
+This threshold applies to the consolidated revenue on the balance sheet date for two consecutive financial years. Undertakings that exceed this threshold are required to draw up, publish, and make accessible a report on income tax information.
 
 Sources: pretext_1"
-Is it mandatory to report the activities of branches that are not subsidiary undertakings,"Yes, according to Article 48b(5) of Directive 2013/34/EU, certain branches opened in a Member State by undertakings that are not governed by the law of a Member State are required to publish and make accessible a report on income tax information concerning the ultimate parent undertaking or the standalone undertaking. If the ultimate parent or standalone undertaking does not provide all the required information, those branches are also required to draw up, publish, and make accessible a statement indicating that the ultimate parent or standalone undertaking did not make the necessary information available. However, these branches are not obliged to use the common template and electronic reporting format set out in this Regulation.
+Is it mandatory to report the activities of branches that are not subsidiary undertakings,"No, it is not mandatory to report the activities of branches that are not subsidiary undertakings. According to the source 'ANNEX1_SECTION3', establishments, fixed places of business or permanent business activities other than those operating via a subsidiary undertaking need not be disclosed. 
 
-Sources: pretext_11"
-How should negative income tax accrued be reported?,The information provided does not specify how negative income tax accrued should be reported. Sources: None.
-Can I use the template in Regulation (EU) 2024/2952 to file my company’s income tax report?,"The use of the common template provided in Regulation (EU) 2024/2952 for filing your company's income tax report depends on several factors. If your company is an ultimate parent undertaking or standalone undertaking not governed by the law of a Member State, it is not under an obligation to use the template and electronic formats set out in this Regulation. However, there is no impediment for such a company to draw up the report in accordance with the template and electronic formats laid down by this Regulation.
+Sources: ANNEX1_SECTION3"
+How should negative income tax accrued be reported?,"Negative income tax accrued should be reported with negative amounts. 
 
-On the other hand, if your company is a medium-sized or large subsidiary undertaking that is governed by the national laws of a Member State and is controlled by an ultimate parent undertaking that is not governed by the law of a Member State, with the consolidated revenue on its balance sheet date exceeding for each of the last two consecutive financial years a total of EUR 750,000,000, it is required to publish and make accessible a report on income tax information concerning the ultimate parent undertaking. However, when drawing up such reports, these subsidiaries are not covered by the obligation to use the common template and electronic reporting format set out in this Regulation.
+Sources: ANNEX1_SECTION2"
+Can I use the template in Regulation (EU) 2024/2952 to file my company’s income tax report?,"Yes, you can use the template in Regulation (EU) 2024/2952 to file your company's income tax report, but only if your company is required to report on income tax information for financial years starting on or after 1 January 2025, as stated in Article 5 of the Regulation. 
 
-Also, the common template and electronic reporting format apply to reports on income tax information for the financial years starting on or after 1 January 2025.
+Additionally, the template is mandatory for certain medium-sized and large undertakings, but not for subsidiaries that are controlled by an ultimate parent undertaking not governed by the law of a Member State, as mentioned in pretext_10.
 
-Sources: pretext_9, pretext_10, art_5."
-Do I need to disclose information for my US-based subsidiary?,"Yes, if your US-based subsidiary is a medium-sized or large subsidiary that is governed by the national laws of a Member State and is controlled by an ultimate parent undertaking that is not governed by the law of a Member State. If the consolidated revenue on its balance sheet date exceeded for each of the last two consecutive financial years a total of EUR 750,000,000, it is required to publish and make accessible a report on income tax information concerning that ultimate parent undertaking as regards the latter of those two consecutive financial years. 
+Sources: art_5, pretext_10"
+Do I need to disclose information for my US-based subsidiary?,"The answer depends on the specific circumstances of your company and its subsidiaries. To determine if you need to disclose information for your US-based subsidiary, can you specify whether the ultimate parent undertaking is governed by the law of a Member State and if the consolidated revenue exceeded EUR 750,000,000 for each of the last two consecutive financial years? Additionally, is the US-based subsidiary a qualifying subsidiary with at least 10% of its shares held by the parent company?
 
-However, when drawing up such reports and statements, these subsidiaries are not obligated to use the common template and electronic reporting format set out in this Regulation.
+Sources: pretext_10, Qualifying shareholding"
+"If I work in the UK, am I subject to EU tax rules?","The answer depends on the specific circumstances of your work and the tax rules in question. 
 
-Sources: pretext_10."
-"If I work in the UK, am I subject to EU tax rules?","No, as of 31 January 2020, the United Kingdom formally withdrew from the European Union. Therefore, it no longer follows EU tax rules. The United Kingdom and the European Union signed a Trade and Cooperation Agreement (TCA) which regulates their relationship as of 1 January 2021. However, the TCA does not include specific arrangements regarding taxation. Instead, taxation in the UK is subject to national laws and any applicable bilateral tax treaties.
+Since the UK withdrew from the European Union on 31 January 2020, it is no longer subject to EU tax rules in the same way as EU member states. However, the UK and EU have agreed on a Trade and Cooperation Agreement (TCA) that includes provisions on taxation, such as tax transparency and cooperation on tax matters.
 
-Sources: Brexit, The Trade and Cooperation Agreement (TCA)."
-What will be the German corporate tax rate in 2026?,"The provided sources do not mention the German corporate tax rate for the year 2026. Sources: Preface, fnp_1, 3.7. Debt-equity bias reduction allowance, 3.6. Minimum Taxation Directive, 3.3. Merger Directive, Calculation of the top-up tax, 3.8. Business in Europe: Framework for Income Taxation (BEFIT), pretext_12, 3.4. Anti-Tax Avoidance Directive, 3.5. Misuse of shell entities, cit_1, 3. Harmonization of Corporate Taxation, Introduction, Exclusions, Importance of OECD works."
-What are the expected audit timelines for small enterprises in Hungary?,The provided sources do not contain information on the expected audit timelines for small enterprises in Hungary.
+If you work in the UK, you will be subject to UK tax rules, but you may still be affected by EU tax rules if, for example, you work for a company that operates in the EU or if you have income from EU sources. Can you specify your situation, such as the type of work you do, whether you have any connections to EU countries, or whether you have income from EU sources? 
+
+Sources: Brexit, The Trade and Cooperation Agreement (TCA)"
+What will be the German corporate tax rate in 2026?,"The answer depends on the specific conditions and regulations applicable in 2026. 
+
+Can you specify whether you are referring to the general corporate tax rate or the minimum effective tax rate as per the Minimum Taxation Directive? Additionally, are there any other factors that could influence the corporate tax rate in Germany, such as the implementation of the Business in Europe: Framework for Income Taxation (BEFIT) proposal or other regulatory changes? 
+
+Sources: 3.6. Minimum Taxation Directive, 3.8. Business in Europe: Framework for Income Taxation (BEFIT)"
+What are the expected audit timelines for small enterprises in Hungary?,"The answer is not covered by the sources. 
+
+The sources provided primarily focus on EU tax reporting regulations, directives, and initiatives related to corporate taxation, without specifically addressing audit timelines for small enterprises in Hungary. To determine the expected audit timelines for small enterprises in Hungary, it would be necessary to consult Hungarian national regulations or sources specific to Hungarian accounting and auditing standards."

@@ -2,23 +2,24 @@ import pandas as pd
 import sys
 import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
-from app import csv_to_documents, create_vector_store, load_chatmodel, Retriever_builder, chat_input_ensembler, chatbot
+from app import load_chatmodel, Retriever_builder, chat_input_ensembler, chatbot
 from tqdm import tqdm
 
 def evaluate_chatbot_questions(questions_list):
 
-    documents = csv_to_documents(csv_path='../source_text/scrapping_results_v2.csv')
-    vector_store = create_vector_store(documents)
 
     chatmodel = load_chatmodel()
 
-    retriever = Retriever_builder(vector_store)
+    retriever = Retriever_builder()
+    retriever.csv_to_documents(csv_path='../source_text/scrapping_results_v3.csv')
+    retriever.create_vector_store()
+
     answers_list = []
     #use tqdm to show the progress
     for index, q in tqdm(enumerate(questions_list), total=len(questions_list), desc="Evaluating questions"):
         chat_input = chat_input_ensembler(q, retriever)
         try:
-            answer = chatbot(chat_input, chatmodel)
+            answer = chatbot(chat_input, source='databricks')
             answers_list.append(answer)
 
         except Exception as e:
